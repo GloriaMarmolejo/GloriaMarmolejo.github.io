@@ -1,14 +1,9 @@
-# [Your Name] - Data Analysis Portfolio
+# Gloria Marmolejo - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
-
-## About This Portfolio Template
-
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+Data Analyst focused on business intelligence, reporting automation, and decision-making through data.
+Experience working with Power BI, SQL, Python, Excel, DAX, and dashboard development.
+Interested in supply chain, operations, and performance analytics.
+Committed to continuous improvement and data-driven solutions.
 
 ## 🚀 Projects
 
